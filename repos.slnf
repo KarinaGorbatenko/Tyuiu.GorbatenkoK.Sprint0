@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "Tyuiu.GorbatenkoK.Sprint0.slnx",
+    "projects": [
+      "Tyuiu.GorbatenkoKR.Sprint0.Task0.V0\\Tyuiu.GorbatenkoKR.Sprint0.Task0.V0.csproj",
+      "Tyuiu.GorbatenkoKR.Sprint0.Task1.V0\\Tyuiu.GorbatenkoKR.Sprint0.Task1.V0.csproj"
+    ]
+  }
+}
